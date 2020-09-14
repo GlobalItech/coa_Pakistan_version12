@@ -37,4 +37,6 @@
     ],
     'demo': [
     ],
+    'price': 30.00,
+    'currency': 'EUR',
 }
